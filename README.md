@@ -1,21 +1,100 @@
-## Hi there 👋
-
-## 🌐 Socials:
-Connect with me on 🔗
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_________aakanksha_________) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakanksha-kumar-026153304/) 
-
-<!-- Snake Game -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="./assets/hero.gif" width="100%" alt="Aakanksha Kumar — Build. Explore. Iterate." />
 </div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=aakankshak1&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<br />
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/aakanksha-kumar-026153304/">LINKEDIN</a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/aakankshak1">GITHUB</a>
+</div>
 
+<br />
 
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <sub><b>00 / OPERATOR PROFILE</b></sub>
+      <h2>Hey, I'm Aakanksha.</h2>
+      I build across systems, applied AI, and product interfaces, with a focus on making useful things reliable, intelligent, and considered.
+      <br /><br />
+      I enjoy moving between low-level details and product-level thinking, learning by building, breaking, and refining.
+    </td>
+    <td width="42%" valign="top">
+      <sub><b>01 / LIVE CONTEXT</b></sub>
+      <br /><br />
+      <code>FOCUS&nbsp;&nbsp;&nbsp; systems + AI</code><br />
+      <code>BUILDING process supervisor</code><br />
+      <code>EXPLORING agentic workflows</code><br />
+      <code>BASED IN&nbsp; India</code><br />
+      <br />
+      <sub>STATUS</sub> &nbsp; <img src="https://img.shields.io/badge/curious-always-9FE3D0?style=flat-square&labelColor=111827" alt="Curious always" />
+    </td>
+  </tr>
+</table>
 
+<br />
+
+### 02 / Selected missions
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>01 &nbsp; / &nbsp; SYSTEMS ENGINEERING</sub>
+      <h3><a href="https://github.com/aakankshak1/process-supervisor">Process Supervisor ↗</a></h3>
+      A lightweight Linux process supervisor in C. Keeps services alive, restarts crashed processes, captures logs, and exposes a control CLI.
+      <br /><br />
+      <code>C</code> &nbsp; <code>Linux</code> &nbsp; <code>Process management</code>
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 &nbsp; / &nbsp; APPLIED AI</sub>
+      <h3><a href="https://github.com/aakankshak1/Drug-Agent">Drug-Agent ↗</a></h3>
+      An LLM-guided Planner–Instructor pipeline for exploring and evaluating machine-learning experiments on drug-discovery benchmarks.
+      <br /><br />
+      <code>Python</code> &nbsp; <code>Gemini</code> &nbsp; <code>RDKit</code> &nbsp; <code>scikit-learn</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>03 &nbsp; / &nbsp; DIGITAL EXPERIENCE</sub>
+      <h3><a href="https://github.com/aakankshak1/orbit">Orbit ↗</a></h3>
+      A space-inspired portfolio concept where projects become the centre of an interactive orbital interface.
+      <br /><br />
+      <code>React</code> &nbsp; <code>TypeScript</code> &nbsp; <code>Tailwind CSS</code>
+    </td>
+    <td width="50%" valign="top">
+      <sub>04 &nbsp; / &nbsp; AUTOMATION</sub>
+      <h3><a href="https://github.com/aakankshak1/coin-brief">Coin Brief ↗</a></h3>
+      An automated workflow that gathers crypto market data, creates an AI summary, and delivers it to an inbox on a schedule.
+      <br /><br />
+      <code>n8n</code> &nbsp; <code>Gemini</code> &nbsp; <code>CoinGecko API</code>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### 03 / Technical stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript,react,nodejs,tailwind,linux,git,docker&perline=6" alt="C, C++, Python, Java, JavaScript, TypeScript, React, Node.js, Tailwind, Linux, Git and Docker" />
+</div>
+
+<br />
+
+### 04 / Signal from GitHub
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aakankshak1&show_icons=true&hide_border=true&bg_color=080B13&title_color=E5E9F4&text_color=9AA8BF&icon_color=A99BFF&ring_color=A99BFF" alt="GitHub statistics" />
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakankshak1&layout=compact&hide_border=true&bg_color=080B13&title_color=E5E9F4&text_color=9AA8BF" alt="Most used languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <sub>END OF TRANSMISSION &nbsp; / &nbsp; STILL EXPLORING</sub>
+  <br />
+  <b>Built with curiosity. Improved with every iteration.</b>
+</div>

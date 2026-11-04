@@ -1,6 +1,6 @@
 <!-- Put this file + the assets/ folder in a public repo named exactly: aakankshak1/aakankshak1 -->
 
-<img src="assets/hero.svg" alt="AAKANKSHA // frontend developer" width="100%"/>
+<img src="assets/hero.svg" alt="Aakanksha: AI, systems and frontend engineer" width="100%"/>
 
 <img src="assets/about.svg" alt="terminal: whoami" width="100%"/>
 
@@ -14,7 +14,6 @@
 </p>
 <p align="center">
   <a href="https://github.com/aakankshak1?tab=repositories"><img src="assets/supervisor.svg" alt="Process Supervisor" width="49%"/></a>
-  <a href="https://github.com/aakankshak1?tab=repositories"><img src="assets/more.svg" alt="more repositories" width="49%"/></a>
 </p>
 
 <img src="assets/stack.svg" alt="stack.conf" width="100%"/>
@@ -25,5 +24,3 @@
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-030806?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=030806&color=00ff9c"/></a>
 </p>
 -->
-
-<img src="assets/footer.svg" alt="connection closed" width="100%"/>

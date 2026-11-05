@@ -18,9 +18,9 @@
 
 <img src="assets/stack.svg" alt="stack.conf" width="100%"/>
 
-<!-- Add your links, then delete this comment:
+
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-030806?style=for-the-badge&logo=linkedin&logoColor=00ff9c&labelColor=030806&color=00ff9c"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-030806?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=030806&color=00ff9c"/></a>
+  <a href="www.linkedin.com/in/aakanksha-kumar-026153304"><img src="https://img.shields.io/badge/LinkedIn-030806?style=for-the-badge&logo=linkedin&logoColor=00ff9c&labelColor=030806&color=00ff9c"/></a>
+  <a href="mailto:aakanksha.kumar29@gmail.com"><img src="https://img.shields.io/badge/Email-030806?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=030806&color=00ff9c"/></a>
 </p>
--->
+
